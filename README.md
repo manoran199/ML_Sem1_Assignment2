@@ -16,7 +16,8 @@ This project compares five supervised classification algorithms on one dataset. 
 This dataset satisfies the assignment minimum of 500 instances and 12 features.
 
 ## C. GitHub Repository Link
-Add your final repository URL here after uploading: **[INSERT GITHUB LINK]**
+https://github.com/manoran199/ML_Sem1_Assignment2
+
 
 ## D. Models Used
 1. Logistic Regression
@@ -59,11 +60,3 @@ pip install -r requirements.txt
 python train_models.py
 streamlit run app.py
 ```
-
-Upload `test_data.csv` in the app, select a model, and review the six metrics, confusion matrix, and classification report.
-
-## Streamlit Community Cloud
-Push all files to GitHub, create a new app, select the repository and `main` branch, set the entry point to `app.py`, and deploy.
-
-## BITS Virtual Lab Proof
-Run `python train_models.py` or `streamlit run app.py` inside BITS Virtual Lab. Take one screenshot that visibly shows the Virtual Lab environment and successful model output/application. Replace the PDF placeholder note with your authentic screenshot before final submission.
